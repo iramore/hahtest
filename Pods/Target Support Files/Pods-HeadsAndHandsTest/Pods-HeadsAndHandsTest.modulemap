@@ -1,0 +1,6 @@
+framework module Pods_HeadsAndHandsTest {
+  umbrella header "Pods-HeadsAndHandsTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

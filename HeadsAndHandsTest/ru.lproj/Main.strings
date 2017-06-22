@@ -1,0 +1,18 @@
+
+/* Class = "UIButton"; normalTitle = "Забыли пароль?"; ObjectID = "Gyr-b5-Yji"; */
+"Gyr-b5-Yji.normalTitle" = "Забыли пароль?";
+
+/* Class = "UILabel"; text = "Почта"; ObjectID = "Ut4-h0-IXy"; */
+"Ut4-h0-IXy.text" = "Почта";
+
+/* Class = "UILabel"; text = "Пароль"; ObjectID = "XQB-kp-mEj"; */
+"XQB-kp-mEj.text" = "Пароль";
+
+/* Class = "UIButton"; normalTitle = "Войти"; ObjectID = "kGc-1w-Bw4"; */
+"kGc-1w-Bw4.normalTitle" = "Войти";
+
+/* Class = "UIButton"; normalTitle = "Авторизация"; ObjectID = "nOk-Lh-8jy"; */
+"nOk-Lh-8jy.normalTitle" = "Авторизация";
+
+/* Class = "UINavigationItem"; title = "Авторизация"; ObjectID = "uc4-Dy-lJU"; */
+"uc4-Dy-lJU.title" = "Авторизация";
